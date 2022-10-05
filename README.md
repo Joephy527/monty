@@ -110,4 +110,4 @@ Exits with status `EXIT_FAILURE`
 All files have been written in the Betty Style.
 
 ## Author
-**Yoseph Ephren** - [Github](https://github.com/joephy527) [joephy527@gmail.com](mailto:joephy527@gmail.com)
+**Yoseph Ephrem** - [Github](https://github.com/joephy527)                         [Email](joephy527@gmail.com)
